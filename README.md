@@ -1,4 +1,4 @@
-# 📊 Maryam Consulting Group — Price Prediction & Regression Modeling
+# 📊 Maryam Consulting Group - Price Prediction & Regression Modeling
 
 > A end-to-end regression modeling project built for Maryam Consulting Group (MCG), a price research firm. The goal is to accurately predict the price of goods across multiple industries while uncovering the key factors that drive pricing decisions.
 
@@ -82,10 +82,10 @@ As a Data Scientist at MCG, this project works through the full modeling lifecyc
 ## 🛠️ Tech Stack
 
 - **Python 3.13**
-- `pandas`, `numpy` — data manipulation
-- `statsmodels` — OLS regression & summaries
-- `scikit-learn` — train/test split, scaling, RidgeCV, LassoCV, ElasticNetCV
-- `seaborn`, `matplotlib` — visualization
+- `pandas`, `numpy`: data manipulation
+- `statsmodels`: OLS regression & summaries
+- `scikit-learn`: train/test split, scaling, RidgeCV, LassoCV, ElasticNetCV
+- `seaborn`, `matplotlib`: visualization
 
 ---
 
